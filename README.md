@@ -1,17 +1,6 @@
-> **Note**
-> Version HTML/CSS is available here: https://github.com/0wczar/airframe
-
 # Airframe React
 
-High Quality **Dashboard / Admin / Analytics template** that works great on any smartphone, tablet or desktop. Available as **Open Source as MIT license.**
-
 - [**View Demo**](https://airframe-react-lime.vercel.app)
-- [jQuery Version](http://dashboards.webkom.co/jquery/airframe) 
-- [**Next Version**](https://github.com/webkom-co/airframe-next) - Now is available
-- [Angular Version](http://dashboards.webkom.co/angular/airframe) - _Documentation in preparation_
-- [Vue Version](http://dashboards.webkom.co/vue/airframe) - _Documentation in preparation_
-- [MVC.Net Version](http://dashboards.webkom.co/net-mvc/airframe) - _Documentation in preparation_
-- *Sketch Files (Soon)*
 
 ![aiframe-2019-light-primary-ExchangeTrading2x-bfc026c1-0477-45c8-ba55-f6dd43141e4c](https://user-images.githubusercontent.com/2330394/63061353-20ea4600-bef5-11e9-84c8-000a6dceea4d.png)
 
@@ -19,7 +8,7 @@ High Quality **Dashboard / Admin / Analytics template** that works great on any 
 
 **Airframe Dashboard** with a minimalist design and innovative Light UI will let you build an amazing and powerful application with great UI. Perfectly designed for large scale applications, with detailed step by step documentation.
 
-This **Airframe** project is a typical Webpack based React app, [React Router](https://reacttraining.com/react-router/web/guides/quick-start) also included together with customised [reactstrap](https://reactstrap.github.io). This project has all of it's few dependencies up to date and it will be updated on a regular basis. This project doesn't support SSR. If you need it - use the [NextJs](https://github.com/zeit/next.js/) based version.
+This **Airframe** project is a typical Webpack based React app, also included together with customised [reactstrap](https://reactstrap.github.io). This project has all of it's few dependencies up to date and it will be updated on a regular basis.
 
 # Features
 
@@ -34,12 +23,11 @@ This **Airframe** project is a typical Webpack based React app, [React Router](h
 
 # Author
 
-**Tomasz Owczarczyk:**
+**Vijay Kumar:**
 
-- Github: [https://github.com/0wczar](https://github.com/0wczar)
-- Dribbble: [https://dribbble.com/tomaszo](https://dribbble.com/tomaszo)
-- Linkedin: [https://www.linkedin.com/in/tomaszowczarczyk/](https://www.linkedin.com/in/tomaszowczarczyk/)
-- Twitter: [https://twitter.com/towcza](https://twitter.com/towcza)
+- Github: [https://github.com/vijay0984567](https://github.com/vijay0984567)
+- Linkedin: [https://www.linkedin.com/in/vijay0987/](https://www.linkedin.com/in/vijay0987/)
+- X: [https://x.com/092Vijaykumar](https://x.com/092Vijaykumar)
 
 # Installation
 
@@ -198,31 +186,3 @@ Options provided by the `ThemeConsumer`:
 * **style** - current theme style
 * **color** - current theme color
 * **onChangeTheme({ style?, color? })** - allows to change the theme
-
-# Credits
-Used plugins in this dashboard:
-
-* [React 16.9.x](https://reactjs.org) - A JavaScript library for building user interfaces
-* [Bootstrap 4.x](http://getbootstrap.com) - Bootstrap is the most popular HTML, CSS, and JS framework
-* [reactstrap 5.x.x](https://github.com/reactstrap/reactstrap) - Simple React Bootstrap 4 components
-* [Peity 3.3.x](http://benpickles.github.io/peity/) - progressive pie, donut, bar and line charts
-* [Font Awesome 4.7.x](http://fontawesome.io/) - Font Awesome, the iconic font and CSS framework.
-* [Holder 2.x.x](http://holderjs.com) -  client side image placeholders
-* [Lodash 7.x.x](https://lodash.com) - A modern JavaScript utility library delivering modularity, performance & extras.
-* [Moment 7.x.x](http://momentjs.com/) - Parse, validate, manipulate, and display dates in javascript.
-* [react-beautiful-dnd 11.0.4](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
-* [react-big-calendar 0.22.x](https://github.com/intljusticemission/react-big-calendar) - gcal/outlook like calendar component
-* [react-bootstrap-table-next 3.1.4](https://github.com/react-bootstrap-table/react-bootstrap-table2) - Next Generation of react-bootstrap-table
-* [react-bootstrap-typeahead 4.x.x](https://github.com/ericgio/react-bootstrap-typeahead) - React typeahead with Bootstrap styling
-* [react-datepicker 2.7.0](https://github.com/Hacker0x01/react-datepicker) - A simple and reusable datepicker component for React
-* [react-dropzone 10.x.x](https://react-dropzone.js.org/) - Simple HTML5 drag-drop zone with React.js
-* [react-grid-layout 0.16.x](https://reactjs.org) - A draggable and resizable grid layout with responsive breakpoints, for React.
-* [react-helmet 5.x.x](https://github.com/nfl/react-helmet) - A document head manager for React
-* [react-hot-loader 4.11.x](https://github.com/gaearon/react-hot-loader) - Tweak React components in real time.
-* [react-quill 1.x.x](https://github.com/zenoamaro/react-quill) - A Quill component for React
-* [react-image-crop 8.0.2](https://github.com/DominicTobias/react-image-crop) - A responsive image cropping tool for React
-* [react-router 5.x.x](https://github.com/ReactTraining/react-router) - Declarative routing for React
-* [text-mask 5.x.x](https://github.com/text-mask/text-mask) - Input mask for React
-* [react-toastify 5.x.x](https://github.com/fkhadra/react-toastify) - React notification made easy
-* [react-toggle 4.x.x](https://github.com/aaronshaf/react-toggle) - Elegant, accessible toggle component for React. Also a glorified checkbox.
-* [reacharts 1.x.x](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
